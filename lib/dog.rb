@@ -1,3 +1,3 @@
 def dog
-class = Dog.new
+class = Dog
 end
