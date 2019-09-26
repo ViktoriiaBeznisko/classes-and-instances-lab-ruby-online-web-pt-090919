@@ -1,3 +1,3 @@
-def 
+def Dog
 class Dog
 end
